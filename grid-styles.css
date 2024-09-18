@@ -1,0 +1,14 @@
+*{
+    box-sizing:border-box;
+}
+main{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap:2rem;
+      }
+}
+section{
+    border: 3px solid pink
+    background-color: white; 
+    padding:1rem;
+}
