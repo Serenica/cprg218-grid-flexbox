@@ -1,0 +1,18 @@
+*{
+    box-sizing:border-box;
+}
+main{
+    display:flex;
+}
+section{
+    border:1px solid pink ;
+    flex:1;
+}
+secton#appetizer{
+    flex:2;
+}
+Section#appetizers,
+section#mains,
+section#desserts{
+background-color: lightcyan;
+}
